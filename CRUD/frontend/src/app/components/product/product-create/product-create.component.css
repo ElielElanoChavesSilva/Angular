@@ -1,0 +1,22 @@
+button{
+    width: 100px;
+    margin: 20px 15px 0px 0px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

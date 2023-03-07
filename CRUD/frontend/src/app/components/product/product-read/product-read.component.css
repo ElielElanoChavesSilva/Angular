@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+}
+
+.icons{
+    display: flex;
+    gap: 5px;
+}
+
+.delete > i{
+    color:#d43a47;
+}
+
+.edit > i{
+    color:#e3b95e;
+}
+
+.read{
+    border-radius: 10px !important;
+}

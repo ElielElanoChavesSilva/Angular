@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.botoes{
+    display: flex;
+    gap: 15px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+

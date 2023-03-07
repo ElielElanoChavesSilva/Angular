@@ -1,0 +1,16 @@
+.title{
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.home{
+    background-color: white;
+    padding: 13px;
+}
+
+.home .subtitle{
+    font-weight: 200;
+    font-size: 14px;
+    color: black;
+}

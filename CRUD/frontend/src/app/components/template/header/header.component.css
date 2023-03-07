@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo{
+    max-height:100%;
+    width:70px ;
+}
+
+.title-group{
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.material-icons{
+    margin-left: 40px;
+    padding-right: 7px;
+}
