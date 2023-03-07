@@ -1,1 +1,1 @@
-# Angular
+# Este projeto foi baseado nos cursos da plataforna 'Cod3r'. Criei com o objetivo de aprimorar meu conhecimento em Angular, estou muito animado para aprender tudo do que esta ferramenta pode proporcionar. 
