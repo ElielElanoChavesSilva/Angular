@@ -7,6 +7,7 @@
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: white;
 }
 
 .logo{
@@ -17,9 +18,11 @@
 .title-group{
     padding-left: 15px;
     padding-right: 5px;
+    color: rgb(255, 4, 4);
 }
 
 .material-icons{
     margin-left: 40px;
     padding-right: 7px;
+    color: white;
 }

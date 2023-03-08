@@ -1,14 +1,9 @@
 {
   "products": [
     {
-      "name": "Eliel ",
-      "id": 4,
-      "price": 555
-    },
-    {
-      "name": "dededde",
-      "id": 5,
-      "price": 32
+      "name": "",
+      "id": 3,
+      "price": null
     }
   ]
 }

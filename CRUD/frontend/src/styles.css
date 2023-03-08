@@ -6,12 +6,16 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     color: rgb(227, 94, 107);
 }
 
-
 .v-middle {
     vertical-align:middle;
 }
 
-.title{
-    display: flex;
-    margin-bottom: 50px;
+.msg-success{
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.msg-error{
+    background-color: rgb(227, 94, 107);
+    color: white;
 }
