@@ -13,8 +13,8 @@
 
 2 - Install the 'node_modules' in the 'backend' and 'frontend' folders with the command 
 ```npm install``` 
-or 'npm i'
+or ``npm i``
 
-3 - Start the 'backend' with the command 'npm start' 
-and the 'frontend' with 'ng serve'
+3 - Start the 'backend' with the command ``npm start`` 
+and the 'frontend' with ``ng serve``
 
