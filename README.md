@@ -12,7 +12,7 @@
 1 -  Make sure you have installed node.js version 19.7 and Angular version 15.2.
 
 2 - Install the 'node_modules' in the 'backend' and 'frontend' folders with the command 
-```JS'npm install '``` 
+```npm install``` 
 or 'npm i'
 
 3 - Start the 'backend' with the command 'npm start' 
